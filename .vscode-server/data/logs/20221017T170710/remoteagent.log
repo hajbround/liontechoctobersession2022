@@ -1,0 +1,9 @@
+[2022-10-17 17:07:10.452] [remoteagent] [info] Extension host agent started.
+[2022-10-17 17:07:11.065] [remoteagent] [info] [127.0.0.1][eaae47c3][ManagementConnection] New connection established.
+[2022-10-17 17:07:11.068] [remoteagent] [info] [127.0.0.1][984ca350][ExtensionHostConnection] New connection established.
+[2022-10-17 17:07:20.263] [remoteagent] [error] ptyHost was unable to resolve shell environment {}
+[2022-10-17 17:07:20.264] [remoteagent] [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed {}
+[2022-10-17 17:07:20.269] [remoteagent] [error] RequestService#request (node) resolving shell environment failed {}
+[2022-10-17 17:07:20.271] [remoteagent] [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed {}
+[2022-10-17 17:07:20.355] [remoteagent] [info] [127.0.0.1][984ca350][ExtensionHostConnection] <87> Launched Extension Host Process.
+[2022-10-17 17:07:27.867] [remoteagent] [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed {}
